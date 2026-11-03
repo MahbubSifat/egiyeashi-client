@@ -14,6 +14,7 @@ const profileLinks = [
   { href: "/create-event", label: "Create Event" },
   { href: "/manage-events", label: "Manage Events" },
   { href: "/joined-events", label: "Joined Events" },
+  { href: "/profile", label: "My Profile" },
 ];
 
 function closeDropdown() {
