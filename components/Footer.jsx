@@ -10,7 +10,7 @@ import {
 import Logo from "./Logo";
 
 // TODO: replace these with your own real contact details and profile links
-const CONTACT_EMAIL = "your-email@gmail.com";
+const CONTACT_EMAIL = "mahbubsifatbdu06@gmail.com";
 
 const socialLinks = [
   { label: "X", href: "https://x.com", Icon: FaXTwitter },
